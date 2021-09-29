@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<deployment>
+		<deploy path="ServerResources/public/MAGIC/Bonus/Annual/AnnualVolumeCSV/AnnualVolumeCSV_1" status="TO_DEPLOY"/>
+	</deployment>
+
+</config>
+

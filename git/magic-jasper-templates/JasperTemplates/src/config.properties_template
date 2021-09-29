@@ -1,0 +1,5 @@
+server.url=XXX
+server.username=
+server.password=
+
+server.searchPath=/public/MAGIC
